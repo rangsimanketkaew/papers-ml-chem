@@ -10,6 +10,7 @@ Papers on machine learning in quantum chemistry, cheminformatics, drug discovery
 - [Gentle Introduction to Machine Learning (Deep Learning)](#gentle-introduction-to-machine-learning-deep-learning)
 - [Quantum Chemistry](#quantum-chemistry)
   - [Energy and Force (DFT)](#energy-and-force-dft)
+  - [Graph neural networks](#graph-neural-networks)
   - [Models](#models)
   - [Packages](#packages)
 - [Drug Discovery](#drug-discovery)
@@ -55,6 +56,10 @@ Papers on machine learning in quantum chemistry, cheminformatics, drug discovery
 6. Fast machine learning models of electronic and energetic properties consistently reach approximation errors better than DFT accuracy.
 7. Neural Message Passing for Quantum Chemistry.
 
+## Graph neural networks
+
+1. Neural Message Passing for Quantum Chemistry. Gilmer et al. https://arxiv.org/abs/1704.01212
+
 ## Models
 
 1. Comparing the accuracy of high-dimensional neural network potentials and the systematic molecular fragmentation method: A benchmark study fo all-trans alkanes, The Journal of Chemical Physics, 144, 194110 (2016) [[pdf]](https://doi.org/10.1063/1.4950815)
@@ -83,12 +88,13 @@ Papers on machine learning in quantum chemistry, cheminformatics, drug discovery
 
 ## Generative Adversarial Networks
 
-1. "The Cornucopia of Meaningful Leads: Applying Deep Adversarial Autoencoders for New Molecule Development in Oncology"
+1. The Cornucopia of Meaningful Leads: Applying Deep Adversarial Autoencoders for New Molecule Development in Oncology.
 
 ## Molecular Properties
 
-1. "Deep Architectures and Deep Learning in Chemoinformatics: the Prediction of Aqueous Solubility for Drug-like Molecules"
-Lusci, A., Pollastri, G. & Baldi, P. J. Chem. Inf. Model. 53, 1563–1575 (2013).
+1. Deep Architectures and Deep Learning in Chemoinformatics: the Prediction of Aqueous Solubility for Drug-like Molecules. Lusci, A., Pollastri, G. & Baldi, P. J. Chem. Inf. Model. 53, 1563–1575 (2013).
+2. Analyzing Learned Molecular Representations for Property Prediction. J. Chem. Inf. Model. 2019, 59, 8, 3370–3388 (ChemProp)
+3. Machine Learning of Reaction Properties via Learned Representations of the Condensed Graph of Reaction. J. Chem. Inf. Model. 2021 (ChemProp)
 
 ## Representation
 
@@ -109,7 +115,7 @@ Lusci, A., Pollastri, G. & Baldi, P. J. Chem. Inf. Model. 53, 1563–1575 (2013)
 
 ## Benchmarks
 
-1. "MoleculeNet: A Benchmark for Molecular Machine Learning."
+1. MoleculeNet: A Benchmark for Molecular Machine Learning.
 
 ---
 
