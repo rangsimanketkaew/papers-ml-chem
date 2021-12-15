@@ -4,6 +4,33 @@ Papers on machine learning in quantum chemistry, cheminformatics, drug discovery
 
 ---
 
+# Table of Contents
+- [Papers on Machine Learning in Chemistry](#papers-on-machine-learning-in-chemistry)
+- [Table of Contents](#table-of-contents)
+- [Gentle Introduction to Machine Learning (Deep Learning)](#gentle-introduction-to-machine-learning-deep-learning)
+- [Quantum Chemistry](#quantum-chemistry)
+  - [Energy and Force (DFT)](#energy-and-force-dft)
+  - [Models](#models)
+  - [Packages](#packages)
+- [Drug Discovery](#drug-discovery)
+  - [Deep Learning Review Articles](#deep-learning-review-articles)
+  - [Generative Adversarial Networks](#generative-adversarial-networks)
+  - [Molecular Properties](#molecular-properties)
+  - [Representation](#representation)
+  - [Multitask Networks](#multitask-networks)
+  - [Benchmarks](#benchmarks)
+- [Cheminformatics](#cheminformatics)
+  - [Structure-Based Virtual Screening](#structure-based-virtual-screening)
+  - [Organic Reaction Prediction](#organic-reaction-prediction)
+  - [Molecular Graph](#molecular-graph)
+  - [Data Mining](#data-mining)
+  - [Synthesis Planing](#synthesis-planing)
+  - [Molecular Design](#molecular-design)
+  - [Image & 3D Structure](#image--3d-structure)
+  - [Transfer Learning](#transfer-learning)
+- [Materials science](#materials-science)
+- [Credits](#credits)
+
 # Gentle Introduction to Machine Learning (Deep Learning)
 
 1. [Deep Learning in Chemistry](https://pubs.acs.org/doi/10.1021/acs.jcim.9b00266) (2019)
