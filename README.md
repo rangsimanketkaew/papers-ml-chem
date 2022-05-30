@@ -25,7 +25,7 @@ Papers on machine learning in quantum chemistry, cheminformatics, drug discovery
   - [Organic Reaction Prediction](#organic-reaction-prediction)
   - [Molecular Graph](#molecular-graph)
   - [Data Mining](#data-mining)
-  - [Synthesis Planing](#synthesis-planing)
+  - [Synthesis Planning](#synthesis-planning)
   - [Molecular Design](#molecular-design)
   - [Image & 3D Structure](#image--3d-structure)
   - [Transfer Learning](#transfer-learning)
@@ -38,7 +38,7 @@ Papers on machine learning in quantum chemistry, cheminformatics, drug discovery
 2. [Deep Learning for Computational Chemistry](https://onlinelibrary.wiley.com/doi/epdf/10.1002/jcc.24764) (2017)
 3. The convergence of artificial intelligence and chemistry for improved drug discovery. [Future Science](https://www.future-science.com/doi/full/10.4155/fmc-2018-0161)
 4. A Survey of Multi‐task Learning Methods in Chemoinformatics. [Molecular Informatics](https://onlinelibrary.wiley.com/doi/full/10.1002/minf.201800108)
-5. Deep learning: new computational modelling techniques for genomics. [Nature Reviews Genetics](https://www.nature.com/articles/s41576-019-0122-6)
+5. Deep learning: new computational modeling techniques for genomics. [Nature Reviews Genetics](https://www.nature.com/articles/s41576-019-0122-6)
 6. Deep Learning in Biomedical Data Science. [Annual Review of Biomedical Data Science](https://www.annualreviews.org/doi/abs/10.1146/annurev-biodatasci-080917-013343)
 7. Deep learning for computational biology. [Mol Syst Biol ](https://www.embopress.org/doi/full/10.15252/msb.20156651)
 
@@ -54,7 +54,7 @@ Papers on machine learning in quantum chemistry, cheminformatics, drug discovery
 4. Hierarchical modeling of molecular energies using a deep neural network, J. Chem. Phys.148, 241715 (2018) [[pdf]](https://doi.org/10.1063/1.5011181)
 5. ANI-1: An Extensible Neural Network Potential with DFT accuracy at force field computational cost
 6. Fast machine learning models of electronic and energetic properties consistently reach approximation errors better than DFT accuracy.
-7. Neural Message Passing for Quantum Chemistry.
+7. Neural Message Passing for Quantum Chemistry [pdf](https://arxiv.org/abs/1704.01212)
 
 ## Graph neural networks
 
@@ -110,8 +110,8 @@ Papers on machine learning in quantum chemistry, cheminformatics, drug discovery
 3. Toxicity Prediction using Deep Learning.
 4. Deep Learning as an Opportunity in Virtual Screening. Unterthiner, T.; Mayr, A.; Klambauer, G. NIPS 2014.
 5. Massively Multitask Networks for Drug Discovery. 2015. https://arxiv.org/abs/1502.02072
-6. "Deep Learning Applications for Predicting Pharamcological Properties of Drugs and Drug Repurposing Using Transcriptomic Data."
-7. "Molecular Fingerprint-Baesd Artificial Neural Networks QSAR for Ligand Biological Activity Predictions."
+6. "Deep Learning Applications for Predicting Pharmacological Properties of Drugs and Drug Repurposing Using Transcriptomic Data."
+7. "Molecular Fingerprint-Based Artificial Neural Networks QSAR for Ligand Biological Activity Predictions."
 
 ## Benchmarks
 
@@ -126,7 +126,7 @@ Papers on machine learning in quantum chemistry, cheminformatics, drug discovery
 1. AtomNet: A Deep Convolutional Neural Network for Bioactivity Prediction in Structure-based Drug Discovery. Wallach, I.; Dzamba, M.; Heifets, A. **2015**. arXiv:1510.02855v1
 2. NNScore: A Neural-Network-Based Scoring Function for the Characterization of Protein−Ligand Complexes. Durrant, J. D.; McCammon, J. A. *J. Chem. Inf. Model.* **2010**, *50*, 1865.
 3. NNScore 2.0: A Neural-Network Receptor–Ligand Scoring Function.
-4. Predicting Ligand Binding Modes from Neural Networks Trained on Protein–Ligand Interaction Fingerprints.
+4. Predicting Ligand Binding Modes from Neural Networks Trained on Protein-Ligand Interaction Fingerprints.
 5. Protein–Ligand Scoring with Convolutional Neural Networks. Matthew Ragoza, M.; Hochuli, J.; Idrobo, E.; Sunseri, J.; Koes, D. R. *J. Chem. Inf. Model.* **2017**, *57*, 942.
 6. Learning Deep Architectures for Interaction Prediction in Structure-based Virtual Screening. Gonczarek, A.; Tomczak, J. M; Zareba, S.; Kaczmar, J.; Dabrowski, P,; Walczak, M. J. arXiv:1610.07187. **2016**
 
@@ -145,7 +145,7 @@ Papers on machine learning in quantum chemistry, cheminformatics, drug discovery
   2. Molecular Structure Extraction from Documents Using Deep Learning. [J. Chem. Inf. Model.](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.8b00669)
   3. BioSentVec: creating sentence embeddings for biomedical texts. [IEEE](https://ieeexplore.ieee.org/abstract/document/8904728)
   
-## Synthesis Planing
+## Synthesis Planning
   1. Molecular Transformer: A Model for Uncertainty-Calibrated Chemical Reaction Prediction. [ACS Cent. Sci.2019](https://pubs.acs.org/doi/10.1021/acscentsci.9b00576) | [ChemRxiv](https://chemrxiv.org/articles/Molecular_Transformer_for_Chemical_Reaction_Prediction_and_Uncertainty_Estimation/7297379) | [Github](https://github.com/pschwllr/MolecularTransformer)
   2. Molecular Transformer unifies reaction prediction and retrosynthesis across pharma chemical space. [Chem. Commun. 2019](https://pubs.rsc.org/en/content/articlelanding/2019/CC/c9cc05122h#!divAbstract) 
   
@@ -190,7 +190,7 @@ Papers on machine learning in quantum chemistry, cheminformatics, drug discovery
 
 # Credits
 
-Original list taken from:
+The original list is taken from:
 1. https://github.com/XinhaoLi74/DL-in-Chemistry
 2. https://github.com/kangway/mlchempapers
 3. https://github.com/getblackbox/Machine-Learning-Potentials-Papers
